@@ -66,6 +66,4 @@ The following libraries and tools are required for this project:
    - Input activity data or select batch data from the dataset.
    - View predictions and performance metrics through visualizations.
 
-## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
